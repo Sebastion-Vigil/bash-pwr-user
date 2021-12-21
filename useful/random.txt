@@ -1,0 +1,1 @@
+To switch to Console mode Press ‘Ctrl + Alt + F1' (F2 -- F6) To switch between consoles in Console mode Press ‘Alt + F1' (F2 -- F6) To switch to GUI mode Press ‘Alt + F7' 
