@@ -1,0 +1,2 @@
+## Link to Containers in Linux:
+ - https://www.redhat.com/en/topics/containers/whats-a-linux-container
