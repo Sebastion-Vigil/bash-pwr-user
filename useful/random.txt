@@ -1,1 +1,14 @@
-To switch to Console mode Press ‘Ctrl + Alt + F1' (F2 -- F6) To switch between consoles in Console mode Press ‘Alt + F1' (F2 -- F6) To switch to GUI mode Press ‘Alt + F7' 
+## Toggling Console Mode/GUI Mode in Linux:
+- To switch to Console mode Press ‘Ctrl + Alt + F1' (F2 -- F6) 
+- To switch between consoles in Console mode Press ‘Alt + F1' (F2 -- F6) 
+- To switch to GUI mode Press ‘Alt + F7' 
+
+## BASH -> see network controller info:   
+   * lspci | grep Network 
+     - 01:00.0 Network controller: Realtek Semiconductor Co., Ltd. Device c822
+     - 
+## Learn BASH programming! ##
+ - Advanced Bash Scripting pdf => is there way to convert to 'dark mode'? 
+ - https://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/why-shell.html
+ - https://www.shell-tips.com/bash/math-arithmetic-calculation/
+ - u now have book in dark mode READ UP!
